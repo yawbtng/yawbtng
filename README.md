@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yawbtng&label=Profile%20views&color=0e75b6&style=flat" alt="yawbtng" /> </p>
 
-- 🔭 I’m currently working on [Lynk](https://github.com/yawbtng/Meta-U-Capstone)
+- 🔭 I’m currently working on [InfoSavvy]([https://github.com/yawbtng/Meta-U-Capstone](https://www.infosavvyai.com/))
 
 - 🌱 I’m currently learning **fullstack development with NextJS and AI Engineering with Python**
 
