@@ -11,20 +11,29 @@
 
 ## 🚀 Things I've built
 
-**[Compass](https://compass.infosavvyai.com)** — AI academic advising platform with a LangGraph RAG agent over 4K+ university docs, real-time streaming, and source citations.
+**[Compass](https://compass.infosavvyai.com)** — AI academic advising platform 
+
 ↳ *Raised $15K+ across 12+ pitch competitions, 300+ users, and university partnerships.*
 
+
 **[F.R.I.D.A.Y](https://github.com/yawbtng/Frontiers-Hack)** — privacy-first desktop meeting agent with local transcription and human-in-the-loop actions on your Google Workspace.
+
 ↳ *Built at the Google DeepMind × Breakthrough Ventures Frontiers Hackathon.*
+
 
 **[Converge](https://devpost.com/software/asdf-gdc2pt)** — an AI personal CRM that records event conversations and turns them into searchable connection profiles in real time, capturing audio + video and face embeddings to extract names, companies, roles, and topics discussed.
 ↳ *Built at NexHacks (Carnegie Mellon).*
 
-**[Lynk](https://github.com/yawbtng/Meta-U-Capstone)** — an intentional networking platform for busy professionals: AI contact recommendations via vector embeddings + similarity search, with D3.js network analytics. *([live demo](https://lynk-gray.vercel.app/))*
+
+**[Lynk](https://github.com/yawbtng/Meta-U-Capstone)** — an intentional networking platform for busy professionals *([live demo](https://lynk-gray.vercel.app/))*
+
 ↳ *Built as my Meta University capstone.*
 
-**[Customer Churn Prediction](https://github.com/yawbtng/Customer-Churn-Prediction-with-ML)** — end-to-end ML pipeline on 10K bank customers: feature engineering, SMOTE for class imbalance, 5 models compared + tuned, served via Streamlit + FastAPI. *([live demo](https://customer-churn-prediction-yawbtng.streamlit.app/))*
+
+**[Customer Churn Prediction](https://github.com/yawbtng/Customer-Churn-Prediction-with-ML)** — end-to-end ML pipeline on 10K bank customers *([live demo](https://customer-churn-prediction-yawbtng.streamlit.app/))*
+
 ↳ *My first full ML pipeline, from raw data to deployed inference.*
+
 
 ## 🛠️ Tech I build with
 
