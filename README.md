@@ -21,9 +21,7 @@
 ↳ *Built at the Google DeepMind × Breakthrough Ventures Frontiers Hackathon.*
 
 
-**[NexHacks AI Networking CRM](https://devpost.com/software/asdf-gdc2pt)** — an AI personal CRM that records event conversations and turns them 
-  into searchable connection profiles in real time, capturing audio + video to extract names, companies, roles, and topics discussed.
-  
+**[Converge](https://devpost.com/software/asdf-gdc2pt)** — an AI personal CRM that records event conversations and turns them into searchable connection profiles in real time, capturing audio + video and face embeddings to extract names, companies, roles, and topics discussed.
 ↳ *Built at NexHacks (Carnegie Mellon).*
 
 
